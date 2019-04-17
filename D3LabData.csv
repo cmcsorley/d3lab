@@ -1,4 +1,4 @@
-id,GEOID,CountyName,BachHigher,PopDensity,MedianAge,MedianIncome,NonWhite
+id,GEOID,NAME,BachHigher,PopDensity,MedianAge,MedianIncome,NonWhite
 1,37001,Alamance,21.7,356.3876964,38.7,46060,33
 2,37003,Alexander,11.7,143.0555021,40.8,46385,12
 3,37005,Alleghany,18.3,47.45596869,45.9,35965,12
@@ -99,4 +99,3 @@ id,GEOID,CountyName,BachHigher,PopDensity,MedianAge,MedianIncome,NonWhite
 98,37195,Wilson,17.9,220.6426379,38.7,41352,51
 99,37197,Yadkin,13.1,114.7029836,41.4,46276,14
 100,37199,Yancey,17.9,56.9993602,45.5,39686,7
-
